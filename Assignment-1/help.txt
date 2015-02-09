@@ -1,0 +1,27 @@
+
+2D - Carroms game 
+--------------------------------
+
+About :
+
+A single player Carroms game where the user can have the following controls :
+
+
+1. First set Position of Striker by tapping Right and Left Arrow Keys 
+
+2. After Fixing Striker Position Press Enter and then set Position of Marker by 'Up' , 'Down' , 'Left' , 'Right' Arrow Keys and press Enter Key
+
+3. Now Set Power for Striker By tapping UP and Down Arrow Keys 
+
+4. Press 'Enter' to release the striker.
+
+5. The color of first coin you pocketed either white/black is considered as the set of your coins to be pocketed.
+
+6. Score initially given was 30 and goes on decreasing for every second.
+
+7. For every coin you pocketed on your side gives you +10 points,opp. side coin costs you 5 pts,striker costs you 5pts,
+	Red gives you +50pts.
+
+8. You can also choose your Striker Direction by Clicking on window and press enter to choose power 
+
+9. Power can also be controlled by Mouse Clicking, click on power Viewer to fix power and press enter to release striker
